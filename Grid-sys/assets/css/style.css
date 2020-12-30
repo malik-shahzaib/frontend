@@ -15,3 +15,16 @@ h2{
  .col-4{
 	border: 2px solid;
 }
+.offset-md-3{
+	background-color: green;
+}
+.offset-md-4{
+	background-color: lightgreen;
+}
+.box{
+	margin-top: 50px;
+	margin-bottom: 30px;
+    padding: 5%;
+    border: 2px solid;
+    border-color: gray;
+}

@@ -1,3 +1,35 @@
+h2{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+ .col-6{
+	border: 2px solid;
+}
+.col{
+	border: 3px solid;
+}
+.col-sm{
+	border: 2px solid;
+}
+ .col-4{
+	border: 2px solid;
+}
+.offset-md-3{
+	background-color: green;
+}
+.offset-md-4{
+	background-color: lightgreen;
+}
+.box{
+	margin-top: 50px;
+	margin-bottom: 30px;
+    padding: 5%;
+    border: 2px solid;
+    border-color: gray;
+}
+
+
 .section-heading{
     margin-top: 50px;
     margin-bottom: 50px;;
